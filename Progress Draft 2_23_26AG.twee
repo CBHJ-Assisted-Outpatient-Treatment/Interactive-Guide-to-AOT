@@ -1,0 +1,1419 @@
+:: StoryTitle
+Interactive Guide to AOT
+
+
+:: StoryData
+{
+  "ifid": "8d9099d6-8b51-41d4-b447-e1136fb6d9af",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "journey_map",
+  "tag-colors": {
+    "tesst": "red"
+  },
+  "zoom": 0.6
+}
+
+
+:: Assertive Community Treatment (ACT) {"position":"3800,1100","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">Assertive Community Treatment (ACT) is an intensive, community-based mental health service model designed for individuals with severe and persistent mental illness (SPMI) who struggle to engage in traditional treatment. It provides person-centered, multidisciplinary care, integrating psychiatric treatment, case management, vocational support, housing assistance, and substance use treatment to promote stability and recovery. ACT primarily serves individuals with schizophrenia, bipolar disorder, co-occurring disorders, frequent hospitalizations, justice involvement, or homelessness, ensuring they receive continuous, flexible, and proactive support. Unlike traditional clinical settings, ACT services are delivered directly in the community—homes, shelters, workplaces, and justice-related environments—offering accessible, wraparound care. By reducing hospitalizations, homelessness, and crisis episodes, ACT improves individual well-being, alleviates caregiver burden, and eases the strain on healthcare and social service systems, ultimately fostering long-term stability and recovery.
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Assisted Outpatient Treatment (AOT) {"position":"3550,1400","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">Assisted Outpatient Treatment is different categories of outpatient services ordered by the court under section 468 or 469a. Assisted outpatient treatment may include a case management plan and case management services to provide care coordination under the supervision of a psychiatrist and developed in accordance with person-centered planning under section 712. 
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Clinical certificate {"position":"3800,1475","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Community mental health (CMH) {"position":"3800,1600","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">Community mental health agencies are public mental health agencies funded mostly by Medicaid, responsible for providing services & care coordination.
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Deferral {"position":"3425,1425","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Deferral conference {"position":"3675,1625","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: END {"position":"1900,4325","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="1. In the community.jpg" alt="new placeholder section">
+<p class= "info-box">The individual returns to the community without a treatment order.
+
+Return to [[start|Start]].
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: Independent evaluation {"position":"3550,1150","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Individualized Plan of Service (IPOS) {"position":"3675,1125","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Inpatient Unit (IPU) {"position":"3800,1225","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Least Restrictive Alternative (LRA) {"position":"3675,1500","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Long Acting Injectable (LAI) {"position":"3550,1525","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Mental Health Code (MHC) {"position":"3675,1375","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: NOTES {"position":"1525,700","size":"100,100"}
+img class="section" src="0. Blank.jpg" alt="new placeholder section"
+
+img class="section" src="1. In the community.jpg" alt="new placeholder section"
+
+img class="section" src="2. Petition.jpg" alt="new placeholder section"
+
+img class="section" src="3. Deferral.jpg" alt="new placeholder section"
+
+img class="section" src="4. Initial Order.jpg" alt="new placeholder section"
+
+img class="section" src="5. Second Order.jpg" alt="new placeholder section"
+
+img class="section" src="6. Continuing Order.jpg" alt="new placeholder section"
+
+img class="section" src="Glossary.jpg" alt="new placeholder section"
+
+img class="section" src="Legislative updates.jpg" alt="new placeholder section"
+
+
+
+
+:: Petitioner {"position":"3675,1250","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">The petitioner is an individual (anyone over the age of 18), such as a family member, provider, or prosecutor, who files an AOT petition.
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Recipient rights {"position":"3550,1650","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">Recipient rights refers to legal protections ensuring individuals receive appropriate treatment and due process. Each CMH has an Office of Recipient Rights.
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Serious Mental Illness (SMI) {"position":"3800,1350","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">Serious Mental Illness (SMI) is a diagnosable mental, behavioral, or emotional disorder affecting an adult that exists or has existed within the past year for a period of time sufficient to meet diagnostic criteria specified in the most recent Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association and approved by the department and that has resulted in functional impairment that substantially interferes with or limits one or more major life activities. 
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Start {"position":"100,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="1. In the community.jpg" alt="new placeholder section">
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+<p class="navigation">Does the individual meet the criteria for AOT?
+[[Yes.|petition_initial]]
+<strong>OR</strong>
+[[No.|aot_inappropriate]]
+</p>
+<p class="info-box">Generally, an adult with a mental illness is a candidate for assisted outpatient treatment if they meet one or more of the following criteria. The immediacy of the risk of harm will determine whether hospitalization or AOT is the appropriate course of treatment.
+<ol>
+<li>The individual can be expected in the near future to seriously physically injure themselves or another person and has previously engaged in acts or made threats that support that expectation.</li>
+<li>The individual who has mental illness, and as a result of that mental illness is unable to attend to those of his or her basic physical needs such as food, clothing, or shelter that must be attended to in order for the individual to avoid serious harm in the near future, and who has demonstrated that inability by failing to attend to those basic physical needs.</li>
+<li>The individual’s judgment is impaired by mental illness, lacks an understanding of the need for treatment and demonstrates an unwillingness to voluntarily participate in or adhere to treatment that is necessary to prevent a relapse or harmful deterioration thereby presenting a substantial risk of significant physical or mental harm to the individual or others.</li>
+</ol>
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Community mental health (CMH)]]
+[[Petitioner]]
+[[Recipient rights]]
+[[Serious Mental Illness (SMI)]]
+</p>
+
+
+:: StoryAuthor {"position":"800,600","size":"100,100"}
+For more information, check out the Center for Behavioral Health and Justice's Assisted Outpatient Treatment (AOT) <a class="toolkit" href= "https://behaviorhealthjustice.wayne.edu/aot" target= "_blank" rel= "noopener">Toolkit</a>.
+
+
+:: StoryCaption {"position":"600,600","size":"100,100"}
+<span class="caption">Close sidebar for resources relevant to this step of the AOT process.
+<strong>[[Read instructions|instructions]]</strong></span>
+
+
+:: StoryDisplayTitle {"position":"800,725","size":"100,100"}
+<span class="title"><p><br>Interactive Guide to Assisted Outpatient Treatment (AOT)</p></span>
+
+
+:: Substance Use Disorder (SUD) {"position":"3550,1275","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Transport order {"position":"3425,1550","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: Waive and stipulate {"position":"3425,1675","size":"100,100"}
+<img class="section" src="Glossary.jpg" alt="new placeholder section">
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<p class="glossary-page">
+
+Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+
+View the full [[glossary]].</p>
+
+
+:: aot_inappropriate {"position":"1975,4025","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="0. Blank.jpg" alt="new placeholder section">
+<p class= "info-box">Assisted Outpatient Treatment (AOT) is not appropriate at this time.
+
+[[Next|END]]</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: aot_only {"position":"300,400","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class= "section" src="2. Petition.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<p class= "info-box">If possible, obtain a voluntary assessment for AOT. If multiple efforts have been made to assist the individual in being assessed by the doctor, submit PCM 245 Notice of Inability to Secure Examination. The judge will review and may issue a transport order. This allows law enforcement or a qualified peace officer to take a petitioned individual into protective custody and transport them for assessment. A transport order only lasts ten days, so make sure you give as much information as possible to assist in finding the individual.
+The court schedules a hearing and the individual is assigned a defense attorney to represent their wishes and ensure their rights are respected. The individual must be seen by a psychiatrist or fully licensed psychologist before the hearing date.</p>
+<div class= navigation><p>[[Obtain a voluntary AOT assessment.|deferral]]
+<strong>OR</strong>
+[[Request a transport order.|transport_initial]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Transport order]]
+[[Petitioner]]
+[[Recipient rights]]
+</p>
+
+
+:: combo {"position":"300,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class= "section" src="2. Petition.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<div class= "info-box"><p>Two clinical certificates are required to accompany the petition before the hearing date, one of which must be signed by a psychiatrist. The other may be signed by a physician or licensed psychologist. You may indicate on the petition if and why an examination could not be secured and request a transport order for a peace officer to take the individual to the hospital for examination. You may also request the individual be hospitalized pending the hearing. </p><p>The court schedules a hearing and the individual is assigned a defense attorney to represent their wishes and ensure their rights are respected.</p>
+</div>
+<div class=navigation><p>[[Obtain a voluntary AOT assessment.|deferral]]
+<strong>OR</strong>
+[[Request a transport order.|transport_initial]]
+</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Clinical certificate]]
+[[Transport order]]
+[[Petitioner]]
+[[Recipient rights]]
+</p>
+
+
+:: compliance_cont {"position":"2900,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<p class= "info-box">Is the individual compliant with treatment?
+
+[[The individual remains adherent with their prescribed services for the duration of the continuing order.|six_month]]
+<strong>OR</strong>
+[[The individual is not adherent to their prescribed services. View steps to address nonadherence.|noncompliance_cont]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: compliance_initial {"position":"1300,100","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="4. Initial Order.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<p class= "info-box">Is the individual compliant with treatment?
+
+[[The individual remains adherent with their prescribed services for the duration of the initial order.|end_initial]]
+<strong>OR</strong>
+[[The individual is not adherent to their prescribed services. View steps to address nonadherence.|noncompliance_initial]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+
+
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: compliance_second {"position":"2100,100","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="5. Second Order.jpg" alt="new placeholder section">
+<p class= "info-box">Is the individual compliant with treatment?
+
+[[The individual remains adherent with their prescribed services for the duration of the second order.|end_second]]
+<strong>OR</strong>
+[[The individual is not adherent to their prescribed services. View steps to address nonadherence.|noncompliance_second]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: deferral {"position":"700,300","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="deferral_hospitals_individuals.jpg" alt="new placeholder section">
+/*THIS IS THE LOWER BOX*/
+<p class= "navigation">[[The individual chooses to defer.|deferral_adherence]]
+<strong>OR</strong>
+[[The individual does not defer.|stipulate_initial]]
+</p>
+<div class= "info-box"><p>The individual has the right to request to temporarily defer the hearing. Deferrals can be up to 60 days of hospitalization and 180 days of outpatient treatment. During this timeframe, the following is true:</p><ul class= "no-top-margin"><li>The individual may demand a hearing.</li><li>The individual must agree to accept the proposed treatment.</li><li>The original petition and clinical certificates will remain valid.</li><li>If the individual refuses proposed treatment at any time, a hearing can be held.</li></ul><p>If the individual is hospitalized, a deferral conference will be held with hospital staff, CMH staff, and the individual’s defense attorney. If hospitalization is not requested in the petition, the individual should still be given the offer to defer.</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Clinical certificate]]
+[[Community mental health (CMH)]]
+[[Deferral conference]]
+[[Deferral]]
+</p>
+
+
+:: deferral_adherence {"position":"700,100","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="deferral_hospitals_individuals.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<div class= "info-box"><p>Noncompliance is when an individual consistently does not adhere to services agreed upon at the deferral conference, and signed on the deferral form. Before filing a Demand for Hearing, be sure to continue engagement efforts. Possible interventions include rapport-building, motivational interviewing, and maintained outreach. Always use the <strong>least restrictive intervention</strong> that meets the individual's needs.</p><p>Is the individual compliant with prescribed treatment for the duration of the deferral period?</p>
+</div>
+<p class=navigation>[[The individual remains adherent to treatment throughout the duration of the deferral period.|petition_expires]]
+<strong>OR</strong>
+[[The individual does not remain adherent to treatment.|demand_hearing]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+ <p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Deferral]]
+</p>
+
+
+:: demand_hearing {"position":"900,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="3. Deferral.jpg" alt="new placeholder section">
+/*THIS IS THE LOWER BOX*/
+<p class= "navigation">[[Demand for Hearing is submitted.|stipulate_initial]]
+<strong>OR</strong>
+[[Demand for Hearing is not submitted.|petition_expires]]
+</p>
+<div class= "info-box"><p>The individual’s participation in services should be monitored. If the individual refuses to participate in agreed upon treatment, CMH may submit PCM 236 Demand for Hearing. The hearing is based off the original petition, a new petition should not be filed. CMH should be informed at least two months before the end of the deferral period if it is unlikely the individual will voluntarily participate in services after the deferral expires. Below are options for a Demand for Hearing.</p><ul style="line-height: 2"><li><strong>Demand for Hearing</strong> with no hospitalization<ul class="no-top-margin"><li>The court schedules a hearing based off of the original petition and clinical certificates.</li></ul></li><li><strong>Demand for Hearing</strong> with request for hospitalization<ul><li>The court schedules a hearing based off of the original petition and clinical certificates. This option provides an order for transport to a hospital.</li></ul></li><li><strong>End of deferral</strong> into initial order<ul><li>No less than 7 or more than 14 days before a deferral expires, a Demand for Hearing can be submitted to request an initial court order if it is believed the individual will discontinue services at the end of the deferral period.</li></ul></li></ul>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Community mental health (CMH)]]
+[[Deferral]]
+</p>
+
+
+:: end_cont {"position":"2600,400","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<div class= "info-box"><p>We’ve reached the end of the continuing order for mental health treatment. At this stage, does the individual still meet the criteria for AOT?</p><p>PCM 218a Petition for Continuing Mental Health Treatment Order must be filed with the probate court no less than 14 days before the expiration of the current order. Consider what has happened in the past when the individual was not compliant with treatment. Look to see if there are past patterns of noncompliance that led to hospitalizations. Is their insight and understanding of their mental illness good, fair, or poor? What is different now versus when they were placed on the order?</p>
+</div>
+<div class=navigation><p>[[They are still a person requiring treatment and at risk of hospitalization or harm to themselves or others without involuntary treatment.|petition_cont]]
+<strong>OR</strong>
+[[They are compliant with prescribed services and have a good understanding of their need for treatment; they no longer meet the criteria as a “person requiring treatment”.|aot_inappropriate]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Serious Mental Illness (SMI)]]
+</p>
+
+
+:: end_initial {"position":"1500,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="4. Initial Order.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<div class= "info-box"><p>We’ve reached the end of the initial order for mental health treatment. At this stage, does the individual still meet the criteria for AOT?</p><p>PCM 218 Petition for Second Mental Health Treatment Order must be filed with the probate court no less than 14 days before the expiration of the initial order. Consider what has happened in the past when the individual was not compliant with treatment. Look to see if there are past patterns of noncompliance that led to hospitalizations. Is their insight and understanding of their mental illness good, fair, or poor? What is different now versus when they were placed on the order?</p>
+</div>
+<div class=navigation><p>[[They are still a person requiring treatment and at risk of hospitalization or harm to themselves or others without involuntary treatment.|petition_second]]
+<strong>OR</strong>
+[[They are compliant with prescribed services and have a good understanding of their need for treatment; they no longer meet the criteria as a “person requiring treatment”.|aot_inappropriate]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Serious Mental Illness (SMI)]]
+</p>
+
+
+:: end_second {"position":"2300,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="5. Second Order.jpg" alt="new placeholder section">
+<div class= "info-box"><p>We’ve reached the end of the second order for mental health treatment. At this stage, does the individual still meet the criteria for AOT?</p><p>PCM 218a Petition for Continuing Mental Health Treatment Order must be filed with the probate court no less than 14 days before the expiration of the second order. Consider what has happened in the past when the individual was not compliant with treatment. Look to see if there are past patterns of noncompliance that led to hospitalizations. Is their insight and understanding of their mental illness good, fair, or poor? What is different now versus when they were placed on the order?</p>
+</div>
+<p class= navigation>[[They are still a person requiring treatment and at risk of hospitalization or harm to themselves or others without involuntary treatment.|petition_cont]]
+<strong>OR</strong>
+[[They are compliant with prescribed services and have a good understanding of their need for treatment.|aot_inappropriate]]</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Serious Mental Illness (SMI)]]
+</p>
+
+
+:: glossary {"position":"3300,1800","size":"100,100"}
+<div class= "top-bar"></div> <img class="section" src="Glossary.jpg" alt="new placeholder section">
+<p class= "special">Click the left facing arrow at the top of the left sidebar to go back to the walkthrough. If the sidebar has been collapsed, select the icon in the top left corner to expand it.
+</p>
+<div class= "resources"></div>
+<div class= "glossary"></div>
+<div class= "glossary-items"><p><strong>ABA</strong><br>Applied Behavior Analysis</p><p><strong>ACC</strong><br>Arab American and Chaldean Council</p><p><strong>ACCESS</strong><br>Arab Community Center for Economic and Social Services</p><p><strong>ACT</strong><br>Assertive Community Treatment</p><p><strong>ADHD</strong><br>Attention Deficit Hyperactivity Disorder</p><p><strong>ADI-R</strong><br>Autism Diagnostic Interview-Revised</p><p><strong>ADOS II</strong><br>Autism Diagnostic Observation Schedule</p><p><strong>ADP</strong><br>Employee Self Service Portal</p><p><strong>Adult Foster Care (AFC)</strong><br>A type of long-term residential care that provides housing, supervision, and personal care services to adults who are unable to live independently due to physical, cognitive, or developmental disabilities, chronic illnesses, or mental health conditions. AFC homes are typically small, community-based settings that offer a structured, supportive environment while promoting as much independence as possible for residents.</p><p><strong>advanced directive</strong><br>Also referred to as medical power of attorney, this allows a person to make medical decisions for when someone can no longer make them for themselves. Only activated once the person becomes incapacitated, requires two doctors to sign-off and declare that the person is in fact, incapable of making decisions for themselves.</p><p><strong>AET</strong><br>Aetna (ICO)</p><p><strong>AFS</strong><br>Assured Family Services</p><p><strong>ALS</strong><br>Authorized Leave Status</p><p><strong>Alternative Treatment Report (ATR)</strong><br>A form required by probate to inform the court about what services are appropriate and available for the individual being petitioned, this is supposed to be submitted before the hearing</p><p><strong>AMI</strong><br>Adults with Mental Illness</p><p><strong>anhedonia</strong><br>Loss of interest in and withdrawal from all regular and pleasurable activities</p><p><strong>anosognosia</strong><br>A neurological phenomenon where a person is unable to recognize or accept that they have a disease or disability, even when presented with evidence to the contrary</p><p><strong>AOD</strong><br>Alcohol and Other Drugs</p><p><strong>ARPA</strong><br>American Rescue Plan Act</p><p><strong>ASAM</strong><br>American Society of Addiction Medicine</p><p><strong>ASD</strong><br>Autism Spectrum Disorder</p><p><strong>ASQ</strong><br>Ages and Stages Questionnaire</p><p><strong>Assertive Community Treatment (ACT)</strong><br>An intensive, community-based mental health service model designed for individuals with severe and persistent mental illness (SPMI) who struggle to engage in traditional treatment. It provides person-centered, multidisciplinary care, integrating psychiatric treatment, case management, vocational support, housing assistance, and substance use treatment to promote stability and recovery. ACT primarily serves individuals with schizophrenia, bipolar disorder, co-occurring disorders, frequent hospitalizations, justice involvement, or homelessness, ensuring they receive continuous, flexible, and proactive support. Unlike traditional clinical settings, ACT services are delivered directly in the community—homes, shelters, workplaces, and justice-related environments—offering accessible, wraparound care. By reducing hospitalizations, homelessness, and crisis episodes, ACT improves individual well-being, alleviates caregiver burden, and eases the strain on healthcare and social service systems, ultimately fostering long-term stability and recovery.</p><p><strong>ASSIST</strong><br>Alcohol, Smoking and Substance Involvement Screening Test</p><p><strong>Assisted Outpatient Treatment (AOT)</strong><br>Assisted Outpatient Treatment is different categories of outpatient services ordered by the court under section 468 or 469a. Assisted outpatient treatment may include a case management plan and case management services to provide care coordination under the supervision of a psychiatrist and developed in accordance with person-centered planning under section 712.</p><p><strong>ATO</strong><br>Alternative Treatment Order</p><p><strong>AUDIT</strong><br>Alcohol Use Disorders Identification Test</p><p><strong>auditory (hallucination)</strong><br>False perception of sound (elementary noises or complete voices/words)</p><p><strong>BCaBA</strong><br>Board Certified Assistant Behavior Analyst</p><p><strong>BCBA</strong><br>Board Certified Behavior Analyst</p><p><strong>BCBA-D</strong><br>Board Certified Behavior Analyst-Doctoral</p><p><strong>BCC</strong><br>Blue Care Complete</p><p><strong>Behavioral Health Treatment Episode Data Set (BH-TEDS)</strong><br>A Michigan data system used to report on behavioral health services</p><p><strong>Behavioral Health Unit (BHU)</strong><br>A specialized inpatient or outpatient facility designed to provide comprehensive mental health care and crisis stabilization for individuals experiencing acute psychiatric distress or severe behavioral health conditions. These units operate within hospitals, standalone psychiatric facilities, or community health settings, offering structured and intensive treatment environments. BHUs serve individuals in psychiatric crises, including those with severe mental illness, suicidal ideation, co-occurring disorders, veterans, justice-involved individuals, adolescents, and older adults with cognitive or behavioral health needs. Their goal is to stabilize patients and connect them with appropriate long-term care resources.</p><p><strong>Behavioral Treatment Plan Review Committee (BTPRC)</strong><br>A CMH review panel, specifically tasked with reviewing and approving any treatment plans that propose to use restrictive or intrusive interventions</p><p><strong>BFDI</strong><br>Black Family Development</p><p><strong>BG</strong><br>Block Grant</p><p><strong>BHDDA</strong><br>Behavioral Health and Developmental Disabilities Administration</p><p><strong>BHH</strong><br>Behavioral Health Home</p><p><strong>BIPOC</strong><br>Black, Indigenous and People of Color</p><p><strong>blunted</strong><br>A severe reduction in the intensity of feeling tone</p><p><strong>BTPRC</strong><br>Behavior Treatment Plan Review Committee</p><p><strong>C</strong><br></p><p><strong>C.L.A.S.S.</strong><br>Changing Lives and Staying Sober</p><p><strong>C.O.P.E.</strong><br>Community Outreach for Psychiatric Emergencies (Adult Screening Entity)</p><p><strong>CAADC</strong><br>Certified Advanced Alcohol and Drug Counselor</p><p><strong>CADC</strong><br>Certified Alcohol and Drug Counselor</p><p><strong>CAFAS</strong><br>Child and Adolescent Functional Assessment Scale</p><p><strong>CALOCUS</strong><br>Child and Adolescent Level of Care Utilization</p><p><strong>CARF</strong><br>Commission on Accreditation of Rehabilitation Facilities</p><p><strong>catatonic</strong><br>State in which someone is awake but does not respond to people or their environment</p><p><strong>CBCL</strong><br>Child Behavior Checklist</p><p><strong>CBI</strong><br>Comprehensive Behavioral Intervention</p><p><strong>CBT</strong><br>Cognitive Behavioral Therapy</p><p><strong>CC</strong><br>Care Coordination</p><p><strong>CCBHC</strong><br>Certified Community Behavioral Health Clinic</p><p><strong>CCI</strong><br>Child Caring Institution</p><p><strong>CCM</strong><br>Complex Case Management</p><p><strong>CCO</strong><br>Chief Clinical Officer</p><p><strong>CCO</strong><br>Chief Compliance Officer</p><p><strong>CCS</strong><br>Certified Clinical Specialist</p><p><strong>CD</strong><br>Communicable Disease</p><p><strong>CDC</strong><br>Centers for Disease Control</p><p><strong>Center for Forensic Psychiatry (CFP)</strong><br>A state facility that evaluates and treats individuals involved in the criminal court system, including assessments of competency to stand trial and criminal responsibility</p><p><strong>CEO</strong><br>Chief Executive Officer</p><p><strong>Certified Community Behavioral Health Clinic (CCBHC)</strong><br>A state certified outpatient clinic that provides comprehensive, integrated mental health and substance use disorder (SUD) services to individuals of all ages, regardless of their ability to pay</p><p><strong>CEU</strong><br>Continuing Education Unit</p><p><strong>CFO</strong><br>Chief Financial Officer</p><p><strong>CFO</strong><br>Chief Financial Officer</p><p><strong>CFR</strong><br>Code of Federal Regulations or Confidential Federal Regulation</p><p><strong>CHM</strong><br>Children’s Hospital of Michigan</p><p><strong>CIO</strong><br>Chief Information Officer</p><p><strong>CIT</strong><br>Crisis Intervention Team</p><p><strong>civil commitment</strong><br>A legal process that allows courts to mandate mental health treatment for individuals with severe mental illness, often including inpatient (hospitalization), AOT, or a combination of both AOT/hospitalization options to ensure necessary treatment while considering the least restrictive alternative</p><p><strong>clinical certificate</strong><br>A legal court document (pdf) that is filled out by either a psychiatrist, physician, or licensed psychologist who has personally examined an individual being petitioned for mental health treatment. The professional completing the form will indicate whether, in their opinion, the person being petitioned is or is not mentally ill, determines a diagnosis, gives reasons to back their determination up and recommends a level of intervention for the individual if they have found that they require treatment.</p><p><strong>Clinically Responsible Service Provider (CRSP)</strong><br>Contracted providers, overseen by the larger CMH authority</p><p><strong>CLS</strong><br>Community Living Support</p><p><strong>CMHP</strong><br>Child Mental Health Services Program</p><p><strong>CMHSP</strong><br>Community Mental Health Services Program</p><p><strong>CMO</strong><br>Chief Medical Officer</p><p><strong>CMS</strong><br>Center for Medicare and Medicaid Services</p><p><strong>CMT</strong><br>Care Management Program</p><p><strong>CNO</strong><br>Chief Network Officer</p><p><strong>COB</strong><br>Close of Business</p><p><strong>COB</strong><br>Coordination of Benefits</p><p><strong>COD</strong><br>Integrated Co-Occurring Disorders Treatment</p><p><strong>COFR</strong><br>County of Financial Responsibility</p><p><strong>Community Mental Health (CMH)</strong><br>Public mental health agencies funded mostly by Medicaid, responsible for providing services & care coordination</p><p><strong>compulsion</strong><br>Pathological need to act on an impulse, which if resisted, causes anxiety</p><p><strong>constricted</strong><br>Impoverished, inhibited, a spectrum of feelings not elicited</p><p><strong>contraindication</strong><br>A specific situation in which a drug, procedure, or surgery should not be used because it may be harmful to the person. Relative contraindication means that caution should be used when two drugs or procedures are used together. (It is acceptable to do so if the benefits outweigh the risk.) Absolute contraindication means that event or substance could cause a life-threatening situation. A procedure or medicine that falls under this category must be avoided.</p><p><strong>control (delusion)</strong><br>False belief that one’s will, thoughts, and feelings are controlled by external forces</p><p><strong>COO</strong><br>Chief Operation Officer</p><p><strong>co-occurring Disorder</strong><br>Refers to having a co-existing mental illness and substance use disorder, which often impact each other</p><p><strong>COPD</strong><br>Chronic Obstructive Pulmonary Disease</p><p><strong>CPC</strong><br>Certified Prevention Specialist</p><p><strong>CPI</strong><br>Clinical Practice Improvement</p><p><strong>CPP</strong><br>Child Parent Psychotherapy</p><p><strong>CPS</strong><br>Child Protective Services</p><p><strong>CPT</strong><br>Current Procedural Terminology</p><p><strong>CQI</strong><br>Continuous Quality Improvement</p><p><strong>Crisis Stabilization Unit (CSU)</strong><br>A short-term facility designed to provide immediate psychiatric care and stabilization for individuals experiencing a mental health crisis, stays typically range from 24 hours to a few days, depending on the individual's needs; after stabilization, individuals are either discharged with a treatment plan, referred to community-based services, or transitioned to a higher level of care, such as inpatient hospitalization, if necessary</p><p><strong>CRSP</strong><br>Clinically Responsible Service Provider</p><p><strong>CRU</strong><br>Crisis Residential Unit</p><p><strong>CSR</strong><br>Continued Stay Review</p><p><strong>CSU</strong><br>Crisis Stabilization Unit</p><p><strong>CV</strong><br>Constituent Voice</p><p><strong>CV</strong><br>Curriculum Vitae</p><p><strong>CVO</strong><br>Credentialing Verification Organization</p><p><strong>CWP</strong><br>Children’s Waiver Program</p><p><strong>DAST</strong><br>Drug Abuse Screening Test</p><p><strong>DBT</strong><br>Dialectical Behavior Therapy</p><p><strong>DCI</strong><br>Development Centers, Inc.</p><p><strong>DCPP</strong><br>Direct to Community Placement Program</p><p><strong>DEA</strong><br>Drug Enforcement Administration</p><p><strong>DECA-C</strong><br>Devereux Early Childhood Assessment, CHILDREN 37 to 47 months of age</p><p><strong>DECA-I</strong><br>Devereux Early Childhood Assessment, Infants 0 to 18 months of age</p><p><strong>DECA-T</strong><br>Devereux Early Childhood Assessment, Toddlers 18 to 36 months of age</p><p><strong>decompensation</strong><br>The loss of one’s ability to overcome their mental health symptoms, resulting in their symptoms getting worse and challenging their ability to function.</p><p><strong>deferral conference</strong><br>A deferral conference is what happens when a currently hospitalized individual who is being petitioned for mental health treatment requests that their probate hearing be deferred for up to 60 days and agrees to voluntarily adhere to treatment during that time. The deferral creates an opportunity for the individual to take agency in their treatment and demonstrate their capacity without a court order. During this time, the petition stays active so that if the individual stops adhering to their treatment plan. The following people must be present</p><p><strong>deferral</strong><br>A formal agreement where an individual being petitioned for involuntary mental health treatment agrees to voluntarily participate in agreed-upon services up to a six month period</p><p><strong>delusion</strong><br>A fixed false belief (control, grandeur, persecution, reference, thought broadcasting, thought insertion, thought withdrawal)</p><p><strong>depersonalization</strong><br>A subjective sense of being unreal, strange, or unfamiliar to oneself</p><p><strong>DPICS</strong><br>Dyadic Parent-Child Interaction Coding System</p><p><strong>DSA</strong><br>Data Security Application</p><p><strong>DSM-5</strong><br>Diagnostic and Statistical Manual of Mental Disorders 5th edition</p><p><strong>dysphoria</strong><br>An unpleasant, painful, or anguished state</p><p><strong>E/M Services</strong><br>Evaluation and Management Services</p><p><strong>EAA</strong><br>Environmental Accessibility Adaptations</p><p><strong>EBP</strong><br>Evidence Based Practice</p><p><strong>EBSE</strong><br>Evidenced Based Supportive Employment</p><p><strong>ECBI</strong><br>Eyberg Child Behavior Inventory</p><p><strong>ECHO</strong><br>Experience of Care and Health Outcomes</p><p><strong>ECMHS</strong><br>Early Childhood Mental Health Services</p><p><strong>ECT</strong><br>Electroconvulsive Treatment</p><p><strong>ED</strong><br>Emergency Department</p><p><strong>EFT</strong><br>Electronic Funds Transfer</p><p><strong>EI</strong><br>Emotional Impairment</p><p><strong>EMR</strong><br>Electronic Medical Record</p><p><strong>EPSDT</strong><br>Early and Periodic Screening, Diagnostic, and Treatment</p><p><strong>EQR</strong><br>External Quality Review</p><p><strong>euphoria</strong><br>Intense elevation with feelings of grandeur</p><p><strong>examination order</strong><br>An order issued by the court for an individual who has been petitioned for mental health treatment but will not voluntarily go to a screening site for an assessment.</p><p><strong>extra campine (hallucination)</strong><br>Seeing objects outside the sensory field (e.g., behind one’s back)</p><p><strong>FAS</strong><br>Functional Assessment Systems</p><p><strong>FASD</strong><br>Fetal Alcohol Spectrum Disorders</p><p><strong>fast pressured</strong><br>Rate of speech greater than average</p><p><strong>FBA</strong><br>Functional Behavioral Assessment</p><p><strong>FBI</strong><br>Faith Based Initiative</p><p><strong>FDA</strong><br>Food and Drug Administration</p><p><strong>FI</strong><br>Fiscal Intermediary</p><p><strong>FMLA</strong><br>Family and Medical Leave Act</p><p><strong>FOIA</strong><br>Freedom of Information Act</p><p><strong>FPE</strong><br>Family Psychoeducation</p><p><strong>FSA</strong><br>Flexible Spending Account</p><p><strong>FSR</strong><br>Family Status Report</p><p><strong>GAAP</strong><br>Generally Accepted Accounting Principles</p><p><strong>GAD</strong><br>Generalized Anxiety Disorder</p><p><strong>GASB</strong><br>Governmental Accounting Standards</p><p><strong>GF</strong><br>General Fund</p><p><strong>grandeur (delusion)</strong><br>False belief of one’s importance, power, or identity</p><p><strong>grandiosity</strong><br>Exaggeration of one’s worth</p><p><strong>grave disability</strong><br>A legal term indicating an individual is unable to care for basic needs due to mental illness.</p><p><strong>gustatory (hallucination)</strong><br>False perception of taste</p><p><strong>H/I</strong><br>Homicidal Ideation</p><p><strong>hallucination</strong><br>An incorrect sensory perception in the absence of actual external stimulus (auditory, extracampine, gustatory, olfactory, somatic, tactile, visual)</p><p><strong>HCBS</strong><br>Home & Community Bases Services</p><p><strong>HCPCS</strong><br>Healthcare Common Procedure Coding System</p><p><strong>Health Insurance Portability and Accountability Act (HIPAA)</strong><br>Federal law governing privacy and disclosure of mental health records</p><p><strong>HEDIS</strong><br>Healthcare Effectiveness Data and Information Set</p><p><strong>helplessness</strong><br>Incapable of assisting oneself</p><p><strong>HHI</strong><br>Hegira Health, Inc.</p><p><strong>HHS</strong><br>Health and Human Services</p><p><strong>HIPPA</strong><br>Health Insurance Portability and Accountability Act</p><p><strong>HITECH</strong><br>Health Information Technology for Economic and Clinical Health</p><p><strong>HMP</strong><br>Health Michigan Program</p><p><strong>homicidal ideation</strong><br>Desire to do serious harm or take the life of another person</p><p><strong>hopelessness</strong><br>Utter despair, belief that problems cannot be solved</p><p><strong>HPQ-9</strong><br>Patient Health Questionnaire</p><p><strong>HSAG</strong><br>Health Services Advisory Group</p><p><strong>HSW</strong><br>Habilitation Supports Waiver</p><p><strong>hyper Religiosity</strong><br>Excessive concern with spiritual matters</p><p><strong>hyperactivity</strong><br>Super normal amount of purposeful, goal-directed activity</p><p><strong>I</strong><br></p><p><strong>I/DD</strong><br>Intellectual & Developmental Disabilities</p><p><strong>IC&RC</strong><br>International Certification & Reciprocity Consortium</p><p><strong>ICF/IID</strong><br>Intermediate Care Facility for Individuals with Intellectual Disabilities</p><p><strong>ICHAT</strong><br>Internet Criminal History Access Tool</p><p><strong>ICO</strong><br>Integrated Care Organization</p><p><strong>ICR</strong><br>Intensive Crisis Residential</p><p><strong>ICS</strong><br>Intensive Crisis Stabilization</p><p><strong>ICT</strong><br>Integrated Care Team</p><p><strong>IDD</strong><br>Intellectual and Developmental Disabilities</p><p><strong>IDDT</strong><br>Integrated Dual Disorders Treatment</p><p><strong>ideas of reference</strong><br>Incorrect assumption that real events or incidents have direct reference to oneself</p><p><strong>IDU</strong><br>Intravenous Drug Uses</p><p><strong>IEP</strong><br>Individual Education Plan</p><p><strong>IFM</strong><br>Infant Mental Health</p><p><strong>IHC</strong><br>Integrated Health Care</p><p><strong>ILPT</strong><br>Improvement Leadership Practice Team</p><p><strong>IMH</strong><br>Infant Mental Health</p><p><strong>IMR</strong><br>Illness Management & Recovery</p><p><strong>inappropriate</strong><br>Emotional tone inconsistent with content of speech, thoughts, or ideas</p><p><strong>independent evaluation</strong><br>A separate psychiatric assessment requested by a respondent or attorney, performed by a licensed mental health professional to determine if a person has a mental health condition and to what extent</p><p><strong>Individualized Plan of Service (IPOS)</strong><br>A treatment plan developed with CMH, that defines the needs, wishes and goals as determined by the individual, often including services based on the individual’s physical and mental condition, and should be reviewed periodically by the CMH team to ensure the individual is meeting his/her goals & objectives</p><p><strong>Inpatient Unit (IPU)</strong><br>A specialized hospital-based facility that provides acute, 24/7 psychiatric care for individuals experiencing severe mental health crises; these units are typically located within general hospitals or standalone psychiatric hospitals and are designed to offer short-term, intensive treatment to stabilize individuals who are at risk of harming themselves or others, experiencing significant psychiatric distress, or unable to care for themselves due to mental illness</p><p><strong>Involuntary Commitment (IVC)</strong><br>A legal process mandating psychiatric treatment</p><p><strong>IOP</strong><br>Intensive Outpatient</p><p><strong>IOPD</strong><br>Intensive Outpatient with Domicile</p><p><strong>IPOS</strong><br>Individual Plan of Service</p><p><strong>IRR</strong><br>Inter Rater Reliability</p><p><strong>irritable</strong><br>Easily annoyed and provoked to anger</p><p><strong>IST</strong><br>Incompetent to Stand Trial</p><p><strong>IT</strong><br>Information Technology</p><p><strong>JCAHO</strong><br>Joint Commission on Accreditation of Healthcare Organizations</p><p><strong>Kevin's Law</strong><br>AOT in Michigan law began as a package of bills called "Kevin's Law". Kevin Heisinger, a 24-year-old student at U of M, was killed in a Kalamazoo bus station by Brian Williams, an individual living with schizophrenia (paranoid type) in 2000. Prior to killing Kevin, Williams had repeated contact with law enforcement and numerous psychiatric hospitalizations due to his non-adherence with psychiatric treatment.</p><p><strong>labile</strong><br>Rapid, abrupt changes in feeling tone</p><p><strong>LARA</strong><br>Michigan Department of Licensing and Regulatory Affairs</p><p><strong>Law Enforcement Information Network (LEIN)</strong><br>A computerized filing system that provides authorized agencies with an integrated network for sharing information. It gives police officers access to information about arrest warrants, Personal Protection Orders, bond and probation orders, and parole orders. LEIN is Michigan’s statewide-computerized information system that stores and disseminates criminal justice information.</p><p><strong>LCD</strong><br>Local Coverage Determination</p><p><strong>Least Restrictive Alternative (LRA)</strong><br>A legal principle requiring that individuals receive treatment in the least restrictive setting possible (e.g., community-based services instead of hospitalization). AOT is often considered an LRA to inpatient commitment.</p><p><strong>LEP</strong><br>Limited English Proficiency</p><p><strong>Level of Care Utilization System (LOCUS)</strong><br>An assessment tool that helps clinicians, insurers, and those in need of behavioral health services, to make treatment decisions in a way that is consistent, fair, and effective. The tool provides a common language and way of understanding what care is needed, when and for how long. The tool is designed to guide treatment decisions for adults aged 18+. The LOCUS assessment tool is completed by answering questions divided into six categories, called ‘dimensions,’ that describe different aspects of a person and their illness. Questions in each of the 6 dimensions can have a score from 1 to 5.</p><p><strong>LGBTQIA</strong><br>Lesbian, Gay, Bisexual, Transgender, Queer or Questioning, Intersex, and Asexual and Agender</p><p><strong>LLMSW</strong><br>Limited Licensed Masters Social Worker</p><p><strong>LLP</strong><br>Limited Licensed Psychologist</p><p><strong>LLPC</strong><br>Limited Licensed Professional Counselor</p><p><strong>LMSW</strong><br>Licensed License Master’s Social Worker</p><p><strong>LOB</strong><br>Line of Business</p><p><strong>LOC</strong><br>Level of Care</p><p><strong>LOCUS</strong><br>Level of Care Utilization System</p><p><strong>Long Acting Injectable (LAI)</strong><br>A type of psychiatric medication, typically an antipsychotic, delivered via injection that is designed to release slowly into the bloodstream over an extended period, usually ranging from 2 to 4 weeks</p><p><strong>LOS</strong><br>Length of Stay</p><p><strong>LPC</strong><br>Licensed Master’s Social Worker</p><p><strong>LTC</strong><br>Long Term Care</p><p><strong>M&B</strong><br>Division of Management and Budget (Finance)</p><p><strong>MACMHB</strong><br>Michigan Association of Community Mental Health Boards</p><p><strong>MAT</strong><br>Medication Assisted Treatment</p><p><strong>MCBAP</strong><br>Michigan Certification Board for Addiction Professionals</p><p><strong>MCE</strong><br>Michigan Consortium for Health Excellence</p><p><strong>Medical Care Guideline (MCG)</strong><br>A tool utilized to determine the medical care that someone needs</p><p><strong>MCHAT</strong><br>Modified Checklist for Autism in Toddlers</p><p><strong>MCI/PCN</strong><br>Permanent Court Ward/Ward of the State</p><p><strong>MCO</strong><br>Managed Care Operations</p><p><strong>MDCH</strong><br>Michigan Department of Community Health</p><p><strong>MDHHS</strong><br>Michigan Department of Health and Human Services</p><p><strong>MDOC</strong><br>Michigan Department of Correction</p><p><strong>MED</strong><br>Medicare Exclusions Database</p><p><strong>Medication Assisted Treatment (MAT)</strong><br>The use of medication to support individuals with opioid use disorder, to help manage withdrawal symptoms, reduce cravings, and improve long-term recovery outcomes</p><p><strong>mental health code</strong><br>A compilation of Michigan laws governing the delivery of mental health services. State law defines the mental health code as</p><p><strong>Mental Health Diversion Council (MHDC)</strong><br>A state-level advisory body dedicated to reducing the criminalization of mental illness by diverting individuals with serious mental health and co-occurring substance use disorders away from the justice system and into appropriate treatment. The council works to expand treatment-based alternatives, enhance public safety, and advocate for policies that improve access to mental health services. Serving justice-involved individuals, including those with serious mental illness, co-occurring disorders, veterans, and underserved populations, the MHDC collaborates with law enforcement, courts, and healthcare providers to develop and oversee diversion programs. By funding initiatives, shaping policy, and providing training, the council ensures that individuals receive the care they need while reducing recidivism and improving community well-being.</p><p><strong>MERS</strong><br>Municipal Employees’ Retirement System of Michigan</p><p><strong>MFA</strong><br>Multi-Factor Authentication</p><p><strong>MHFA</strong><br>Mental Health First Aid</p><p><strong>MHL</strong><br>Local Appeal Request Form (MI Health Link)</p><p><strong>MHS</strong><br>Multi-Health Systems</p><p><strong>MHSIP</strong><br>Mental Health Statistics Improvement Program Consumer Survey</p><p><strong>MH-WIN</strong><br>Mental Health-Wellness Information Network</p><p><strong>MI</strong><br>Motivational Interviewing</p><p><strong>MICAL</strong><br>Michigan Crisis Access Line</p><p><strong>MMBPI</strong><br>Michigan Mission Based Performance Indicators</p><p><strong>mood incongruence</strong><br>Content of thoughts and feelings has no association with mood</p><p><strong>MOU</strong><br>Memorandum of Understanding</p><p><strong>MPH</strong><br>Medicaid Health Plan</p><p><strong>MRS</strong><br>Michigan Relay Service</p><p><strong>mutism</strong><br>Inability to speak</p><p><strong>MWBC</strong><br>Michigan Workforce Background Check Program</p><p><strong>MySTRENGTH</strong><br>Evidence Based Self-Management Tool</p><p><strong>NAMI</strong><br>National Alliance on Mental Illness</p><p><strong>NCD</strong><br>National Coverage Determination</p><p><strong>NCI</strong><br>National Core Indicators</p><p><strong>NCQA</strong><br>National Committee for Quality Assurance</p><p><strong>NIH</strong><br>National Institute of Mental Health</p><p><strong>Not Guilty by Reason of Insanity (NGRI)</strong><br>Refers to a legal defense in which an individual is found not guilty of a crime due to the inability to understand the nature of their actions or distinguish right from wrong at the time of the offense, due to a severe mental illness</p><p><strong>NOVA</strong><br>North Oakland Vocational Association</p><p><strong>NPDB</strong><br>National Practitioner Databank</p><p><strong>NPI</strong><br>National Provider Identifier</p><p><strong>NSO</strong><br>Neighborhood Service Organization</p><p><strong>obsessions</strong><br>Persistence of an unwanted thought that cannot be eliminated from consciousness</p><p><strong>OHH</strong><br>Opioid Health Home</p><p><strong>OHI</strong><br>Other Health Impairment</p><p><strong>OIG</strong><br>Office of the Inspector General</p><p><strong>olfactory (hallucination)</strong><br>False perception of smell</p><p><strong>OON</strong><br>Out of Network</p><p><strong>OP</strong><br>Outpatient</p><p><strong>OPB</strong><br>Oversight Policy Board</p><p><strong>OPT</strong><br>Out-Patient Treatment</p><p><strong>order for examination/transport</strong><br>A court order requiring mental health evaluation and transport, these orders compel law enforcement to take individuals who are unwilling to voluntarily go to an evaluation, or have been noncompliant with their current order into protective custody and get them evaluated either for AOT eligibility or a higher level of care</p><p><strong>ORR</strong><br>Office of Recipient Rights</p><p><strong>OTIS</strong><br>Offender Tracking Information System</p><p><strong>OTR</strong><br>Registered Occupational Therapist</p><p><strong>PA2</strong><br>Public Act 2 (Liquor tax funds)</p><p><strong>PAR</strong><br>Prior Authorized Review</p><p><strong>paranoid ideation</strong><br>Belief that one is singled out for unfair treatment</p><p><strong>PATH</strong><br>Personal Action Toward Health</p><p><strong>PATP</strong><br>Parent Agency Treatment Plan</p><p><strong>PCC</strong><br>Program Compliance Committee</p><p><strong>PCE</strong><br>Peter Chang Enterprises (Information System)</p><p><strong>PCIT</strong><br>Parent-Child Interaction Therapy</p><p><strong>PCP</strong><br>Person Centered Planning</p><p><strong>PCP</strong><br>Primary Care Physician</p><p><strong>PCWG</strong><br>Procedure Code Work Group</p><p><strong>PDSA</strong><br>Plan-Do-Study-Act</p><p><strong>PE</strong><br>Psychiatric evaluation</p><p><strong>PECFAS</strong><br>Preschool and Early Childhood Functional Assessment Scale</p><p><strong>persecution (delusion)</strong><br>False belief that one is being harassed or cheated</p><p><strong>petitioner</strong><br>An individual (anyone over the age of 18), such as a family member, provider, or prosecutor, who files an AOT petition</p><p><strong>PHH</strong><br>Project Helping Hands</p><p><strong>PHI</strong><br>Protected Health Information</p><p><strong>PHP</strong><br>Partial Hospital Program</p><p><strong>PHQ-9</strong><br>Patient Health Questionnaire-Adult Depression</p><p><strong>PHQ-A</strong><br>Patient Health Questionnaire-Adolescent</p><p><strong>pickup order</strong><br>An order issued by the court for an individual who has been petitioned for mental health treatment but will not voluntarily go to a screening site for an assessment.</p><p><strong>PIHP</strong><br>Pre-paid Inpatient Plan</p><p><strong>PIP</strong><br>Performance Improvement Project</p><p><strong>PMPM</strong><br>Per Member Per Month</p><p><strong>PMTO</strong><br>Parent Management Training Oregon Model</p><p><strong>poverty of speech</strong><br>Restricted amount of speech, often monosyllables</p><p><strong>PRC</strong><br>Peer Recovery Coach</p><p><strong>PRI</strong><br>Priority Health</p><p><strong>probate court</strong><br>The civil-court responsible for managing wills, estates, guardianships, and individual’s on AOT (both with or without hospitalization)</p><p><strong>Proof of Service (POS)</strong><br>A document verifying that legal notice of a proceeding has been properly delivered</p><p><strong>protective custody</strong><br>The time that an individual is with law enforcement and allows law enforcement to take the necessary steps to get that person to a screening site. The person is not under arrest, but they are in custody of law enforcement and must comply.</p><p><strong>PSI</strong><br>Parent Stress Inventory</p><p><strong>PSP</strong><br>Parent Support Partner</p><p><strong>PSR</strong><br>Public Sex Offender Registry</p><p><strong>psychiatric advanced directive</strong><br>A legal document outlining future psychiatric treatment preferences for future mental health treatment or names an individual to make treatment decisions if the person is in a crisis and unable to make decisions</p><p><strong>PT</strong><br>Physical Therapy</p><p><strong>PTC</strong><br>Parenting Through Change</p><p><strong>QAPIP</strong><br>Quality Assessment Performance Improvement Program</p><p><strong>QBHP</strong><br>Quality Behavioral Health Provider</p><p><strong>QI</strong><br>Quality Improvement</p><p><strong>QIDP</strong><br>Qualified Intellectual Disability Professional</p><p><strong>QISC</strong><br>Quality Improvement Steering Committee</p><p><strong>QM</strong><br>Quality Management</p><p><strong>QMHP</strong><br>Qualified Mental Health Professional</p><p><strong>QOTAW</strong><br>Quality Operations Technical Assistance Workgroup</p><p><strong>RA</strong><br>Recipient Rights Advisor</p><p><strong>RAC</strong><br>Research Advisory Committee</p><p><strong>RBT</strong><br>Registered Behavior Technician</p><p><strong>REC</strong><br>Ruth Ellis Center</p><p><strong>recipient rights</strong><br>Legal protections ensuring individuals receive appropriate treatment and due process</p><p><strong>REE</strong><br>Recovery Enhancing Environment Measure</p><p><strong>reference (delusion)</strong><br>False belief that behavior of others, events, or objects refers to oneself</p><p><strong>RIF</strong><br>Report of Investigative Findings</p><p><strong>Risk Mitigating Strategies (RMS)</strong><br>Interventions developed after a comprehensive CMH assessment that considers the individual found NGRI strengths, needs, abilities, preferences, mental health status and potential risks; this should be an all encompassing treatment plan that aims to mitigate the risk of mental health decompensation once the NGRI individual is released into the community</p><p><strong>RMIS</strong><br>Risk Management Information System</p><p><strong>RRI</strong><br>Recipient Rights Investigator</p><p><strong>RSA</strong><br>Recovery Self-Assessment</p><p><strong>ruminations</strong><br>Excessive worry, repetitive or continuous speculation</p><p><strong>S.T.E.P.</strong><br>Services to Enhance Potential</p><p><strong>S/I</strong><br>Suicidal Ideation</p><p><strong>SADP</strong><br>Substance Abuse Disorder Professional</p><p><strong>SAM</strong><br>System for Awards Management</p><p><strong>SATS</strong><br>Substance Abuse Treatment Specialist</p><p><strong>SBIRT</strong><br>Screening, Brief Intervention and Referral Treatment</p><p><strong>SDA</strong><br>State Disability assistance</p><p><strong>SE</strong><br>Supported Employment</p><p><strong>SED-C</strong><br>Serious Emotional disturbance-Child</p><p><strong>SEDW</strong><br>Serious Emotional Disturbance Waiver</p><p><strong>Serious Mental Illness (SMI)</strong><br>A diagnosable mental, behavioral, or emotional disorder affecting an adult that exists or has existed within the past year for a period of time sufficient to meet diagnostic criteria specified in the most recent Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association and approved by the department and that has resulted in functional impairment that substantially interferes with or limits 1 or more major life activities.</p><p><strong>SFS</strong><br>Starfish Family Services</p><p><strong>SH</strong><br>Supported Housing</p><p><strong>SHAR</strong><br>Self-Help Addiction Rehabilitation</p><p><strong>SIP</strong><br>Specialty Integrated Plans</p><p><strong>SIS</strong><br>Supports Intensity Scale</p><p><strong>slow</strong><br>Rate of speech less than average</p><p><strong>SMI-A</strong><br>Serious Mental Illness-Adult</p><p><strong>SOC</strong><br>System of Care</p><p><strong>SOGIE</strong><br>Sexual Orientation and Gender Identity Expression</p><p><strong>SOM</strong><br>State of Michigan</p><p><strong>somatic (hallucination)</strong><br>False perception of things occurring to one’s body</p><p><strong>somatic preoccupation</strong><br>Overly concerned with body functions</p><p><strong>SOOAR </strong><br>Strategies to Overcome Obstacles and Avoid Recidivism</p><p><strong>SOP</strong><br>Standard Operating Procedure</p><p><strong>SOR</strong><br>State Opioid Response</p><p><strong>SPG</strong><br>Staffing Plan Guide</p><p><strong>STD</strong><br>Short Term Disability</p><p><strong>stipulate</strong><br>When an individual is being petitioned for AOT, they can choose to stipulate to the order, meaning they are choosing to accept treatment, and an AOT order without having a hearing. The judge grants the order, which then goes into effect, and it is up to the CMH to oversee and coordinate service delivery. Simply put, when an individual stipulates an order, they agree to participate in whatever treatment is ordered with oversight from the court.</p><p><strong>subject</strong><br>An individual regarding whom a petition has been filed with the Court asserting that the individual is or is not a person requiring treatment or for whom has an objection to involuntary mental health treatment.</p><p><strong>SUD</strong><br>Substance Use Disorder</p><p><strong>suicidal ideation</strong><br>Desire to harm oneself or end one’s life</p><p><strong>supervised living</strong><br>Offers less restrictive oversight and more independence compared to AFC, providing support for individuals who need less intensive care but still require assistance with their mental health needs</p><p><strong>SWCS</strong><br>Southwest Counseling Solutions</p><p><strong>tactile (hallucination)</strong><br>False perception of touch or surface sensation</p><p><strong>TCC</strong><br>The Children’s Center</p><p><strong>TCW</strong><br>Temporary Court Ward</p><p><strong>TFCBT</strong><br>Trauma-Focused Cognitive Behavioral Therapy</p><p><strong>TGC</strong><br>The Guidance Center</p><p><strong>thought broadcasting (delusion)</strong><br>Belief that thoughts can be heard by others</p><p><strong>thought insertion (delusion)</strong><br>Belief that thoughts are being implanted by external forces</p><p><strong>thought withdrawal (delusion)</strong><br>Belief that thoughts are being removed by external forces</p><p><strong>TIC</strong><br>Trauma Informed Care</p><p><strong>TIP</strong><br>Transition to Independence Process</p><p><strong>transport order</strong><br>An order issued by the court for an individual who has been petitioned for mental health treatment but will not voluntarily go to a screening site for an assessment.</p><p><strong>TTY</strong><br>Telecommunications Device for the Deaf</p><p><strong>Tx</strong><br>Treatment</p><p><strong>UM</strong><br>Utilization Management</p><p><strong>UMC</strong><br>Utilization Management Committee</p><p><strong>UNI</strong><br>United</p><p><strong>UR</strong><br>Utilization Review</p><p><strong>VB-MAPP</strong><br>Verbal Behavior Milestones Assessment and Placement Program</p><p><strong>visual (hallucination)</strong><br>False perception of sight consisting of formed and unformed images</p><p><strong>VOC</strong><br>Vocational Opportunity Center</p><p><strong>VRI</strong><br>Video Remote Interpreting Device</p><p><strong>waive & stipulate</strong><br>This refers to an option in an AOT case where an individual voluntarily waives their right to a hearing and stipulate (specify) to the entry of the order</p><p><strong>word salad</strong><br>Incoherent speech using unrelated words and phrases in a sentence</p><p><strong>WRAP</strong><br>Wellness Recovery Action Plan</p><p><strong>WSA</strong><br>Waiver Support Application</p><p><strong>WSS</strong><br>Women’s Specialty Services</p></div>
+
+
+:: hearing_cont {"position":"2700,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<div class= "info-box"><p>The evidence must be <strong>clear and convincing</strong>. This is a lower threshold than beyond a reasonable doubt and higher than a preponderance of evidence. According to the Supreme Court in Colorado v. New Mexico, 467 U.S. 310 (1984), “clear and convincing” means that the evidence is highly and substantially more likely to be true than untrue.</p><p>The court finds that there is clear and convincing evidence that the individual meets criteria as a person requiring treatment, [[a continuing order for mental health treatment is issued.|order_cont]]
+<strong>OR</strong>
+The court does not find that there is clear and convincing evidence that the individual meets the criteria as a person requiring treatment, the petition is dismissed and [[a continuing order for mental health treatment is not issued.|not_issued]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: hearing_initial {"position":"1100,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="4. Initial Order.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<div class= "info-box"><p>The evidence must be <strong>clear and convincing</strong>. This is a lower threshold than beyond a reasonable doubt and higher than a preponderance of evidence. According to the Supreme Court in Colorado v. New Mexico, 467 U.S. 310. (1984), “clear and convincing” means that the evidence is highly and substantially more likely to be true than untrue.</p><p>The court finds that there is clear and convincing evidence that the individual meets criteria as a person requiring treatment, [[an initial order for mental health treatment is issued.|order_initial]]
+<strong>OR</strong>
+The court does not find that there is clear and convincing evidence that the individual meets the criteria as a person requiring treatment, the petition expires and [[an initial order for mental health treatment is not issued.|not_issued]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: hearing_second {"position":"1900,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="5. Second Order.jpg" alt="new placeholder section">
+<div class= "info-box"><p>The evidence must be <strong>clear and convincing</strong>. This is a lower threshold than beyond a reasonable doubt and higher than a preponderance of evidence. According to the Supreme Court in Colorado v. New Mexico, 467 U.S. 310 (1984), “clear and convincing” means that the evidence is highly and substantially more likely to be true than untrue.</p><p>The court finds that there is clear and convincing evidence that the individual meets criteria as a person requiring treatment, [[a second order for mental health treatment is issued.|order_second]]
+<strong>OR</strong>
+The court does not find clear and convincing evidence that the individual meets the criteria as a person requiring treatment, the petition is dismissed and [[a second order for mental health treatment is not issued.|not_issued]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: instructions {"position":"600,725","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class= "section" src="0. Blank.jpg" alt="new section">
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>[[View Glossary|glossary]]</strong></p>
+<p class="special">Welcome to the <strong>Interactive Guide to Assisted Outpatient Treatment (AOT)</strong>. This tool was developed to educate members of the system of care on the steps of the AOT process, options, individuals’ rights, as well as best and promising practices in Michigan.<br>Be sure to read any additional information provided before making your selection to move on to the next stage. The next page you come to is dependent upon your selection, and you can use the arrows at the top of the left sidebar to go back to the previous page if you’d like to explore a different path. <br>The AOT process begins when someone notices a person that may need involuntary mental health treatment. In this tool, we will refer to the person in need as “the individual”. Hospital staff, CMH staff, law enforcement, providers, or loved ones can file a petition for mental health treatment if the individual meets the criteria for AOT.<br>Press <strong>[[start|Start]]</start> to go back to the beginning of the process, or click the left arrow in the sidebar menu to return to your previous path.
+</p>
+
+
+:: journey_map {"position":"100,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class= "section" src="0. Blank.jpg" alt="new section">
+<div class= "glossary"></div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<div class="info-box"><p class="no-top-margin">Welcome to the Interactive Guide to Assisted Outpatient Treatment (AOT). This tool was developed to educate members of the system of care on the steps of the AOT process, options, individuals’ rights, as well as best and promising practices in Michigan. The Assisted Outpatient Treatment (AOT) process begins when someone notices a person that may need involuntary mental health treatment. In this tool, we will refer to the person in need as the "individual”. Anyone can file a petition for mental health treatment if the individual meets the criteria for AOT. To read the instructions, click the link in the left side bar at any time.</p><p>For a specific section of the AOT process, select below.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<<button "<strong>Start</strong>" "Start">><</button>></p></div>
+<div class="directory"><p class= "no-bottom-margin"><strong>Initial</strong></p><ul class="no-top-margin"><li class="no-top-margin">[[Petition|petition_initial]]</li><li>[[Deferrals|deferral]]</li><li>[[Hearing|stipulate_initial]]</li><li>[[Compliance|compliance_initial]]</li></ul><br><p class= "no-bottom-margin"><strong>Second</strong></p><ul class="no-top-margin"><li class="no-top-margin">[[Petition|petition_second]]</li><li>[[Hearing|stipulate_second]]</li><li>[[Compliance|compliance_second]]</li><li>[[Legislative Changes|legislation]]</li></ul><br><p class= "no-bottom-margin"><strong>Continuing</strong></p><ul class="no-top-margin"><li class="no-top-margin">[[Petition|petition_cont]]</li><li>[[Hearing|stipulate_cont]]</li><li>[[Compliance|compliance_cont]]</li><li>[[Six-month Review|six_month]]</li></ul>
+</div>
+
+
+:: legislation {"position":"50,1075","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="Legislative updates.jpg" alt="new placeholder section">
+<p class="special">Landing page with info about status of bills/laws and links to legislation and MHC.
+Page in progress. </p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Mental Health Code (MHC)]]
+</p>
+
+
+:: noncompliance_cont {"position":"3100,300","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<p class= "navigation">[[Next|six_month]]
+</p>
+<div class= "info-box"><p>Non-adherence should be addressed by the provider to try to engage the individual in following their treatment order. If engagement attempts are unsuccessful or the level of risk is high , the CMH may submit a notification of noncompliance and request any of the following:</p><ul class=no-top-margin><li>modification of the current order</li><li>assessment of the individual</li><li>involuntary hospitalization</li></ul><p>This may include a transport order.</p><p>There is no need to request court action in incidents where there is something that needs to be reported, but with no action necessary. Examples of this include if the individual has been arrested after missing their injection, or if they’ve missed an appointment for a scheduled AOT assessment to petition to extend their order.</p><p>Before reporting noncompliance, consider the least restrictive intervention to prevent harm to self or others. Before requesting a transport order, consider whether the individual will be able to be located within ten days. Remember, transport orders expire if not executed within ten days of when they’re ordered.</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Community mental health (CMH)]]
+[[Least Restrictive Alternative (LRA)]]
+[[Long Acting Injectable (LAI)]]
+[[Transport order]]
+</p>
+
+
+:: noncompliance_initial {"position":"1300,300","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="4. Initial Order.jpg" alt="new placeholder section">
+<p class= "navigation">[[Next|end_initial]]
+</p>
+<div class= "info-box"><p>Non-adherence should be addressed by the provider to try to engage the individual in following their treatment order. If engagement attempts are unsuccessful or the level of risk is high , the CMH may submit a notification of noncompliance and request any of the following:</p><ul class=no-top-margin><li>modification of the current order</li><li>assessment of the individual</li><li>involuntary hospitalization</li></ul><p>This may include a transport order.</p><p>There is no need to request court action in incidents where there is something that needs to be reported, but with no action necessary. Examples of this include if the individual has been arrested after missing their injection, or if they’ve missed an appointment for a scheduled AOT assessment to petition to extend their order.</p><p>Before reporting noncompliance, consider the least restrictive intervention to prevent harm to self or others. Before requesting a transport order, consider whether the individual will be able to be located within ten days. Remember, transport orders expire if not executed within ten days of when they’re ordered.</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Community mental health (CMH)]]
+[[Least Restrictive Alternative (LRA)]]
+[[Long Acting Injectable (LAI)]]
+[[Transport order]]
+</p>
+
+
+:: noncompliance_second {"position":"2100,300","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="5. Second Order.jpg" alt="new placeholder section">
+<p class= "navigation">[[Next|end_second]]
+</p>
+<div class= "info-box"><p>Non-adherence should be addressed by the provider to try to engage the individual in following their treatment order. If engagement attempts are unsuccessful or the level of risk is high , the CMH may submit a notification of noncompliance and request any of the following:</p><ul class=no-top-margin><li>modification of the current order</li><li>assessment of the individual</li><li>involuntary hospitalization</li></ul><p>This may include a transport order.</p><p>There is no need to request court action in incidents where there is something that needs to be reported, but with no action necessary. Examples of this include if the individual has been arrested after missing their injection, or if they’ve missed an appointment for a scheduled AOT assessment to petition to extend their order.</p><p>Before reporting noncompliance, consider the least restrictive intervention to prevent harm to self or others. Before requesting a transport order, consider whether the individual will be able to be located within ten days. Remember, transport orders expire if not executed within ten days of when they’re ordered.</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Community mental health (CMH)]]
+[[Least Restrictive Alternative (LRA)]]
+[[Long Acting Injectable (LAI)]]
+[[Transport order]]
+</p>
+
+
+:: not_issued {"position":"2100,4025","size":"100,100"}
+/*THIS IS THE SECTION HEADER*/
+<img class="section" src="0. Blank.jpg" alt="new placeholder section">
+<p class= "info-box">A mental health treatment order is not issued by the court.
+
+[[Next|END]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+ <p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: order_cont {"position":"2700,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<p class= "navigation">[[Next|compliance_cont]]
+</p>
+<div class= "info-box"><p>Continuing orders may last up to 365 days of hospitalization, outpatient services, or a combination of both. If the order includes outpatient treatment, the CMH shall submit an AOT treatment plan within 30 days. Categories of outpatient services authorized by the court may include one or more of the following:</p><ul class="no-top-margin"><li>Case management</li><li>Medication</li><li>Periodic tests to determine compliance with prescribed medications</li><li>Individual or group therapy</li><li>Day programming activities</li><li>Vocational, educational, or self-help trainings and activities</li><li>Assertive Community Treatment (ACT) team services</li><li>Alcohol or substance abuse disorder treatment and counseling</li><li>May include periodic tests for the presence of alcohol or substances</li><li>Supervision of living arrangements</li><li>Services recommended by the treatment providers</li><li>Any other services within a local or unified services plan developed under the Mental Health Code that are prescribed for the individual’s mental illness</li></ul><p>A psychiatrist is to supervise the individual’s treatment plan and ensure the plan of service meets their needs.</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Assertive Community Treatment (ACT)]]
+[[Community mental health (CMH)]]
+[[Individualized Plan of Service (IPOS)]]
+[[Mental Health Code (MHC)]]
+[[Substance Use Disorder (SUD)]]
+</p>
+
+
+:: order_expires {"position":"2275,4025","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="0. Blank.jpg" alt="new placeholder section">
+<p class= "info-box">A petition is not filed, and the order expires.
+
+[[Next|END]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+</p>
+
+
+:: order_initial {"position":"1100,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" /> /*THIS IS THE SECTION HEADER*/
+<img class="section" src="4. Initial Order.jpg" alt="new placeholder section">
+<p class= "navigation">[[Next|compliance_initial]]
+</p>
+<div class= "info-box"><p>Initial orders may last up to 180 days for AOT only orders, or up to 180 days of AOT including up to 60 days of hospitalization for combination orders. If the order includes outpatient treatment, the CMH shall submit an AOT treatment plan within 30 days. A psychiatrist is to supervise the individual’s treatment plan and ensure the plan of service meets their needs. Categories of outpatient services authorized by the court may include one or more of the following:</p><ul class=no-top-margin><li class=no-top-margin>Case management</li><li>Medication</li><li>Periodic tests to determine compliance with prescribed medications</li><li>Individual or group therapy</li><li>Day programming activities</li><li>Vocational, educational, or self-help trainings and activities</li><li>Assertive Community Treatment (ACT) team services</li><li>Alcohol or substance abuse disorder treatment and counseling</li><li>May include periodic tests for the presence of alcohol or substances</li><li>Supervision of living arrangements</li><li>Services recommended by the treatment providers</li><li>Any other services within a local or unified services plan developed under the Mental Health Code that are prescribed for the individual’s mental illness</li></ul><p>A psychiatrist is to supervise the individual’s treatment plan and ensure the plan of service meets their needs.</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Assertive Community Treatment (ACT)]]
+[[Community mental health (CMH)]]
+[[Individualized Plan of Service (IPOS)]]
+[[Mental Health Code (MHC)]]
+[[Substance Use Disorder (SUD)]]
+</p>
+
+
+:: order_second {"position":"1900,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" /> /*THIS IS THE SECTION HEADER*/
+<img class="section" src="5. Second Order.jpg" alt="new placeholder section">
+<p class= "navigation">/*THIS IS THE LOWER BOX*/
+\* To learn about upcoming changes to the Michigan Mental Health Code regarding second orders, click [[here.|legislation]]
+[[Next|compliance_second]]
+</p>
+<div class= "info-box"><p>Second orders may last up to 90 days for AOT only orders, or up to 90 days of AOT including up to 90 days of hospitalization for combination orders*. If the order includes outpatient treatment, the CMH shall submit an AOT treatment plan within 30 days. Categories of outpatient services authorized by the court may include one or more of the following:</p><ul class="no-top-margin"><li>Case management</li><li>Medication</li><li>Periodic tests to determine compliance with prescribed medications</li><li>Individual or group therapy</li><li>Day programming activities</li><li>Vocational, educational, or self-help trainings and activities</li><li>Assertive Community Treatment (ACT) team services</li><li>Alcohol or substance abuse disorder treatment and counseling</li><li>May include periodic tests for the presence of alcohol or substances</li><li>Supervision of living arrangements</li><li>Services recommended by the treatment providers</li><li>Any other services within a local or unified services plan developed under the Mental Health Code that are prescribed for the individual’s mental illness</li></ul><p>A psychiatrist is to supervise the individual’s treatment plan and ensure the plan of service meets their needs.</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Assertive Community Treatment (ACT)]]
+[[Community mental health (CMH)]]
+[[Individualized Plan of Service (IPOS)]]
+[[Mental Health Code (MHC)]]
+[[Substance Use Disorder (SUD)]]
+</p>
+
+
+:: petition_cont {"position":"2300,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="2. Petition.jpg" alt="new placeholder section">
+<p class= "info-box">Petitions are filed at the probate court of the county in which the individual resides or can be found. PCM 218a Petition for Continuing Mental Health Treatment Order must be submitted by an authorized representative of the agency or mental health professional supervising the individual’s Assisted Outpatient Treatment (AOT) program.
+
+[[CMH, or IPU if hospitalized, petitions to extend the order no less than 14 days prior to the end of the current order.|stipulate_cont]]
+<strong>OR</strong>
+[[A continuing petition has not been filed.|order_expires]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Inpatient Unit (IPU)]] 
+</p>
+
+
+:: petition_expires {"position":"0,400","size":"100,100"}
+/*THIS IS THE SECTION HEADER*/
+<img class="section" src="0. Blank.jpg" alt="new placeholder section">
+<p class= "info-box">At the end of the deferral period, the petition expires.
+
+[[Next|END]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+ <p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Deferral]]
+</p>
+
+
+:: petition_initial {"position":"300,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class= "section" src="2. Petition.jpg" alt="new placeholder section">
+/*THIS IS THE LOWER BOX*/
+<p class="navigation">[[I want to file a petition for Assisted Outpatient Treatment only.|aot_only]]
+<strong>OR</strong>
+[[I want to file a petition for a combination of Assisted Outpatient Treatment and hospitalization.|combo]]
+</p>
+/*THIS IS THE UPPER BOX*/
+<div class="info-box"><p>Petitions are filed at the probate court of the county in which the individual resides or can be found. Initial orders shall not exceed 180 days total. The immediacy of the risk of harm will determine whether hospitalization or AOT is the appropriate course of treatment.</p><p><strong>AOT only</strong>
+Complete PCM 201 Petition for Mental Health Treatment requesting AOT without hospitalization and MC 97 Protected Personal Identifying Information and turn them into the probate court. AOT is not to exceed 180 days of outpatient treatment.</p><p><strong>Combination</strong>
+Complete PCM 201 Petition for Mental Health Treatment requesting a combination of hospitalization and AOT and MC 97 Protected Personal Identifying Information and turn them into the probate court. Two clinical certificates are required to accompany the petition at the time of filing, unless you mark on the petition that you are also requesting a transport order to secure the examinations.  Hospitalization is not to exceed 60 days, and outpatient treatment is not to exceed 180 days.</p></div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Clinical certificate]]
+[[Transport order]]
+[[Petitioner]]
+[[Serious Mental Illness (SMI)]]
+</p>
+
+
+:: petition_second {"position":"1500,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="2. Petition.jpg" alt="new placeholder section">
+<p class=navigation>
+\* To learn about upcoming changes to the Michigan Mental Health Code regarding second orders, click [[here.|legislation]]
+</p>
+<div class= "info-box"><p>Petitions are filed at the probate court of the county in which the individual resides or can be found. Second orders shall not exceed 90 days total*. PCM 218 Petition for Second Mental Health Treatment Order must be submitted by an authorized representative of the agency or mental health professional supervising the individual’s Assisted Outpatient Treatment (AOT) program.</p><p>[[CMH, or IPU of hospitalized, petitions to extend the order no less than 14 days prior to the end of the initial order.|stipulate_second]]
+<strong>OR</strong>
+[[A second petition has not been filed.|order_expires]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Inpatient Unit (IPU)]]
+</p>
+
+
+:: rights_cont {"position":"2500,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<div class= "info-box"><p>The individual has the right to an independent evaluation and/or jury trial.</p><p>If an independent evaluation is requested, the hearing will be postponed/adjourned until the evaluation has been completed. If a jury trial is requested, the hearing will be adjourned and a jury trial scheduled. </p>
+<p>[[Next|hearing_cont]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Independent evaluation]] 
+[[Recipient rights]]
+</p>
+
+
+:: rights_initial {"position":"1000,400","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="4. Initial Order.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<p class= "info-box">The individual has the right to an independent evaluation and/or jury trial.
+If an independent evaluation is requested, the hearing will be postponed/adjourned until the evaluation has been completed. If a jury trial is requested, the hearing will be adjourned and a jury trial scheduled. 
+
+[[Next|hearing_initial]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Independent evaluation]]
+[[Recipient rights]]
+</p>
+
+
+:: rights_second {"position":"1700,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="5. Second Order.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<div class= "info-box"><p>The individual has the right to an independent evaluation and/or jury trial.</p><p>If an independent evaluation is requested, the hearing will be postponed/adjourned until the evaluation has been completed. If a jury trial is requested, the hearing will be adjourned and a jury trial scheduled.</p>
+<p>[[Next|hearing_second]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="LINK”</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Independent evaluation]] 
+[[Recipient rights]]
+</p>
+
+
+:: six_month {"position":"2900,400","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<p class= "info-box">All one-year orders require a six-month review report. If substance use services are ordered, there must also be a six-month review hearing.
+
+[[Next|end_cont]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Substance Use Disorder (SUD)]]
+</p>
+
+
+:: stipulate_cont {"position":"2500,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="6. Continuing Order.jpg" alt="new placeholder section">
+<p class= "info-box">The individual has the option to waive a hearing and stipulate to the order. This means a hearing will not be held, and the individual agrees to be on an order for mental health treatment.
+
+[[Individual chooses to waive hearing.|order_cont]]
+<strong>OR</strong>
+[[Individual chooses to have a court hearing.|rights_cont]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Recipient rights]]
+[[Waive and stipulate]]
+</p>
+
+
+:: stipulate_initial {"position":"900,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="4. Initial Order.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<div class= "info-box"><p>A hearing is scheduled. The individual has the option to waive a hearing and stipulate to the order. This means a hearing will not be held, and the individual agrees to be on an order for mental health treatment.</p><p>[[Individual chooses to waive hearing.|order_initial]]
+<strong>OR</strong>
+[[Individual chooses to have a court hearing.|rights_initial]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Recipient rights]]
+[[Waive and stipulate]]
+</p>
+
+
+:: stipulate_second {"position":"1700,0","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="5. Second Order.jpg" alt="new placeholder section">
+
+/*THIS IS THE UPPER BOX*/
+<p class= "info-box">The individual has the option to waive a hearing and stipulate to the order. This means a hearing will not be held, and the individual agrees to be on an order for mental health treatment.
+
+[[Individual chooses to waive hearing.|order_second]]
+<strong>OR</strong>
+[[Individual chooses to have a court hearing.|rights_second]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Recipient rights]]
+[[Waive and stipulate]]
+</p>
+
+
+:: transport_expires {"position":"0,600","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class="section" src="0. Blank.jpg" alt="new placeholder section">
+<p class= "info-box">If the individual is unable to be located, the petition expires and a new petition will need to be filed.
+
+[[Next|END]]
+</p>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot/criteria" target="_blank">Criteria for AOT</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Transport order]]
+</p>
+
+
+:: transport_initial {"position":"500,200","size":"100,100"}
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+ /*THIS IS THE SECTION HEADER*/
+<img class= "section" src="2. Petition.jpg" alt="new placeholder section">
+/*THIS IS THE UPPER BOX*/
+<div class= "info-box"><p>Take completed PCM 201 and MC 97 to the intake office at the probate court to request an appointment to go in front of the judge to request a transport order. This will allow a peace officer to transport the individual to the hospital for evaluation. Be sure to provide as much information as possible to assist in locating the individual. After a transport order is issued, it is typically the responsibility of the petitioner  to coordinate with local law enforcement to request they execute the order.</p><p>Once the individual is at the hospital, information on their current clinical concerns will need to be provided to assist with the evaluation.</p>
+</div>
+<div class=navigation><p>[[The individual is found and evaluated within ten days, submit the clinical certificate to probate.|deferral]]
+<strong>OR</strong>
+[[Law enforcement is unable to execute a transport order within ten days, it expires, and a new petition must be filed.|transport_expires]]</p>
+</div>
+<p class="resources"><strong>Resources</strong>
+<a href="https://behaviorhealthjustice.wayne.edu/aot" target="_blank">AOT Toolkit</a>
+</p>
+<p class="glossary"><strong>Glossary</strong>
+[[Assisted Outpatient Treatment (AOT)]]
+[[Transport order]]
+[[Petitioner]]
+</p>
+
+
+:: StoryStylesheet [stylesheet]
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Calibri, sans-serif;
+  font-size: 3.25vmin;
+  height: auto;
+  width: auto;
+  overflow-x: hidden;
+  background-color: #FAFAFA;
+}
+
+body {
+  background-size: cover;
+  overflow-y: auto;
+}
+
+#passages,.passage {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  width: auto !important;
+  box-sizing: border-box;
+  color: #000000;
+  line-height: 1.5;
+  margin-top: 2vmin;
+}
+
+#ui-bar { 
+  width: 18vw;
+  min-width: 20px;
+  background-color: #0C5449;
+}
+
+#ui-bar.stowed {
+  left: 0;
+  width: 2em; 
+}
+
+#ui-bar.stowed button {
+  left: 0;
+  border: 2px solid white;
+  color: #0C5449;
+  background-color: #89ACA7;
+}
+
+#ui-bar-tray button {
+  border: 2px solid white;
+  color: #0C5449;
+  background-color: #89ACA7;
+}
+
+#ui-bar-tray button:hover {
+  background-color: #FFE4A2;
+  color: #0C5449;
+  border: 2px solid #0C5449;
+}
+
+#ui-bar-tray.stowed button:hover {
+  background-color: #FFE4A2;
+  color: #0C5449;
+  border: 2px solid #0C5449;
+}
+
+#ui-bar-body {
+  line-height: 1.5;
+  max-width: 17vw;
+  font-size: 2.5vmin;
+}
+
+#ui-bar-history [id|=history] {
+  color: #0c5449;
+  border: 2px solid white;
+  background-color: #89ACA7;
+}
+
+#ui-bar-history [id|=history]:disabled {
+  color: #89ACA7;
+  border: 2px solid #89ACA7;
+  background-color: #0c5449;
+}
+
+#menu li a {
+  background-color: #89ACA7;  
+  color: #0C5449;
+  border: 2px solid white;
+}
+
+#menu li a:hover {
+  background-color: #FFE4A2;  
+  color: #0C5449;
+  border: 2px solid #0c5449;
+}
+
+.title p {
+  font-size: .9em;
+}
+
+#story-caption, #story-author {
+  line-height: 1.5;
+  max-width: 17vw;
+  font-size: 1em;
+}
+  
+.container {
+  overflow-y: auto;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  flex-wrap: wrap;
+  width: auto;
+  margin-top: 1em;
+  box-sizing: border-box;
+  padding: 0 1em;
+}
+
+.flex-item {
+  width: 40%;
+  min-width: 200px;
+}
+
+.center-wrapper
+width: auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 1em;
+box-sizing: border-box;
+}
+
+img.section, img {
+  position: fixed;
+  left: 18.6%;
+  top: .1%;
+  width:64.5%;
+  display: block;
+  margin: 0 auto;
+  z-index: 10;
+  border: 6px solid #FAFAFA;
+}
+
+img {
+  position: fixed;
+  left: 18.6%;
+  top: .1%;
+  width: 64.5%;
+  display: block;
+  margin: 0 auto;
+  z-index: 10;
+  border: 6px solid #FAFAFA;
+}
+
+.navigation {
+  position: absolute;
+  top: 80%;
+  left: 18.75%;
+  width: 62.5%;
+  max-height: 25%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: inline block;
+  margin-top: 0 !important;
+  border: 3px solid #FFCC33;
+  padding: 1%;
+  font-size: 3vmin;
+}
+
+.info-box {
+  position: absolute;
+  top: 22%;
+  left: 18.75%;
+  width: 62.5%;
+  max-height: 49%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: inline-block;
+  margin-top: 0;
+  border: 3px solid #FFCC33;
+  padding: 1%;
+  z-index: 9;
+}
+
+.start {
+  position: absolute; 
+  top: 50%; 
+  left: 25%; 
+}
+
+.resources {
+  position: fixed;
+  display: inline-block; 
+  left: 2%; 
+  top: 1%; 
+  width:12.5%;
+  background-color: #CEDDDB;
+  height: 98%;
+  padding: 1em;
+  font-size: 2.7vmin;
+  margin-left: .7vw;
+  border: 3px solid #FFCC33;
+}
+
+.glossary {
+  position: fixed;
+  display: inline-block;
+  right:0%;
+  top:1%;
+  width:12.5%;
+  overflow-x: hidden;
+  text-align: left;
+  font-size: 2.75vmin;
+  background-color: #CEDDDB;
+  height: 98%;
+  padding: 1em;
+  z-index: 20;
+  border: 3px solid #FFCC33;
+}
+
+.glossary-page {
+  position: absolute;
+  top: 22%;
+  left: 18.75%;
+  width: 62.5%;
+  height: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: inline-block;
+  border: 3px solid #FFCC33;
+  padding: 1%;
+  z-index: 100;
+}
+
+.special {
+  position: fixed;
+  top: 21.7%;
+  left: 18.75%;
+  width: 62.5%;
+  height: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: inline-block;
+  border: 3px solid #FFCC33;
+  padding: 1%;
+  background-color: #FAFAFA;
+  z-index: 100;
+}
+
+.directory {
+  position: absolute;
+  top: 77%;
+  left: 18.75%;
+  width: 62.5%;
+  overflow-x: hidden;
+  display: inline-block;
+  columns: 3;
+  column-gap:1em;
+  margin: 0 !important;
+  border: 3px solid #FFCC33;
+  padding: 1%;
+  font-size: 2.5vmin;
+  text-align: left;
+}
+
+.directory ul li {
+  margin-bottom:0 !important;
+  line-height: 1.25;
+}
+
+\::-webkit-scrollbar-track {
+  background: #0C5449;
+}
+
+
+\::-webkit-scrollbar-thumb {
+  background-color: #FAFAFA;
+}
+
+
+* {
+  scrollbar-color: #FAFAFA #0C5449;
+}
+
+.no-top-margin {
+  margin-top: 0;
+}
+
+ul {
+  font-size: 2.75vmin;
+  line-height: 1.25;
+  margin-top: 0;
+  text-align: left;
+}
+
+ul li {
+  margin-bottom: 1.5vmin;
+  margin-top: 0;
+  text-align: left;
+}
+
+ol {
+  font-size: 2.75vmin;
+}
+
+ol li {
+  margin-bottom: 2vmin;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: .75em;
+}
+
+button {
+  background-color: #0C5449;
+  color: #FFCC33;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+a.link-internal {
+  color: #0C5449;
+}
+
+a {
+  color: #0C5449;
+}
+
+.no-bottom-margin {
+  margin-bottom: 0;
+}
+
+a.toolkit {
+  color: #FFCC33;
+}
+
+.glossary-items {
+  position: absolute;
+  top: 42%;
+  left: 18.80%;
+  width: 60.45%;
+  height: auto;
+  overflow-x: hidden;
+  display: inline-block;
+  columns: 3;
+  column-gap:2em;
+  margin: 0 !important;
+  border: 3px solid #FFCC33;
+  padding: 2%;
+  font-size: 2.5vmin;
+  text-align: left;
+  z-index: 1;
+}
+
+.glossary-items p {
+  break-inside: avoid !important;
+  page-break-inside: avoid;
+  column-break-inside: avoid;
+  margin-bottom: 1em;
+  z-index: 1;
+}
+
+.top-bar {
+  	position: fixed !important;
+    width: 65%; 
+    height: 2%; 
+    background-color: #FAFAFA;
+    position: absolute;
+    top: 0px; 
+    left: 18.75%; 
+  	z-index: 15;
+}
+
+.caption a {
+  color:#FFCC33;
+}
